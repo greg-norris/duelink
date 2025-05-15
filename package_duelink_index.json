@@ -20,7 +20,7 @@
           "url": "https://github.com/greg-norris/duelink/blob/main/duelink-1.0.tar.bz2",
           "archiveFileName": "duelink-1.0.tar.bz2",
           "checksum": "SHA-256:B35A0BF208EFC1461AE2D32F4641EC4084200A1D5CE0E237BF1591322AACDE5F",
-          "size": "736",
+          "size": "680",
           "boards": [
             {"name": "DUElink"},
             {"name": "DueDuino"}
